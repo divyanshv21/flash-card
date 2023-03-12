@@ -4,7 +4,7 @@ This is a Python program for creating and studying flash cards. The program uses
 
 ## Features
 
-French words will be displayed on flashcards and after a 6-second interval, the correct answer will be revealed. You can indicate whether you have remembered the word or not by clicking on a checkmark or a cross. The words for which you have selected a checkmark will not be displayed again, while the ones for which you have selected a cross will be shown again.
+French words will be displayed on flashcards and after a 6-second interval, the correct answer will be revealed. You can indicate whether you have remembered the word or not by clicking on a checkmark or a cross. The words for which you have selected a checkmark will not be displayed again, while the ones for which you have selected a cross will be shown again. A new csv file wouild be created for you to review which will consist of the words you are yet to learn with the name words_to_learn.csv
 
 ## Requirements
 
